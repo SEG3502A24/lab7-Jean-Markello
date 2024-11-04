@@ -4,3 +4,7 @@
 Access SpringBoot RESTFul API - in branch *server* 
 
 Access Angular Client Application - in branch *client*
+
+
+Name: Jean Markello Létang
+Student Number: 300245679
